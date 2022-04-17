@@ -1,8 +1,8 @@
 const dbd = require("dbd.js")
 
 const bot = new dbd.Bot({
-    token: "ODQxOTc4MTAzOTY5NDgwNzA0.YJunNw.-2IdRT4aNDpQqFTzEOnbH9d_Q0Y", //Discord Bot Token
-    prefix: "A.",
+    token: "Token", //Discord Bot Token
+    prefix: "prefix",
     mobile: true,
     autoUpdate: false
 })
